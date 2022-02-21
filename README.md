@@ -20,8 +20,9 @@ CUDA_VISIBLE_DEVICES=N python main.py --nodes 2 --nr 3
 SCL is short for "Self-supervised Classification of Weather Systems based on Spatiotemporal Contrastive Learning". We propose self-supervised framework based on contrastive learning for representation learning on multivariate meteorological data, in which spatiotemporal transformations are applied for data augmentations to utilize the invariance of key features after transformations.
 
 <p align="center">
-  <img src="./pic/framework.png" width="1000"/>
+  <img src="https://github.com/1437363934/SCL/blob/main/pic/framework.png" width="1000"/>
 </p>
+
 
 
 ## Usage
